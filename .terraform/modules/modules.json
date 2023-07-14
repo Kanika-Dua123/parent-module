@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"newrelic_synthetics_monitor","Source":"git::https://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@github.com/Kanika-Dua123/child-module","Dir":".terraform/modules/newrelic_synthetics_monitor"}]}
